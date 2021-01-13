@@ -12,7 +12,8 @@
   <img align="left" alt="Don Freddy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+
+<span></span>
 
 Hi, I'm [Don Freddy!](https://exemple.com/), a passionate web and mobile developer. 🚀 I'm from Cameroon.
 
