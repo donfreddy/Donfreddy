@@ -23,7 +23,6 @@ Hi, I'm [Don Freddy!](https://exemple.com/), a passionate web and mobile develop
 - 🌱 I’m currently learning Reactjs; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Donfreddy](https://twitter.com/DonFreddy2);
-- 📝[Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 
@@ -45,6 +44,8 @@ Hi, I'm [Don Freddy!](https://exemple.com/), a passionate web and mobile develop
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+- 📝[Resume](https://drive.google.com/)
 
 Here are some ideas to get you started:
 
