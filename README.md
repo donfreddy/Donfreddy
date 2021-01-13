@@ -5,7 +5,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Don Freddy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/fabrice.soup.37">
   <img align="left" alt="Don Freddy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in//">
