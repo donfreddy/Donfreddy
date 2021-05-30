@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm [Don Freddy!](https://exemple.com/), a passionate web and mobile developer. 🚀 I'm from Cameroon.
+Hi, I'm [Don Freddy!](https://freddydev.netlify.app), a passionate web and mobile developer. 🚀 I'm from Cameroon.
 
 **Talking about Personal Stuffs:**
 
