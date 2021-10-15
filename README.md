@@ -15,12 +15,12 @@
 <br />
 <br />
 
-Hi, I'm [Don Freddy!](https://freddydev.netlify.app), a passionate web and mobile developer. 🚀 I'm from Cameroon.
+Hi, I'm [Don Freddy!](), a passionate web and mobile developer. 🚀 I'm from Cameroon.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Reactjs; 
+- 🌱 I’m currently learning Vuejs; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Donfreddy](https://twitter.com/DonFreddy2);
 
