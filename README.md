@@ -19,7 +19,7 @@ Hi, I'm [Don Freddy!](), a passionate web and mobile developer. 🚀 I'm from Ca
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Vuejs; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Donfreddy](https://twitter.com/DonFreddy2);
+- 📫 How to reach me: [@Donfreddy](https://twitter.com/dfreddydev);
 
 **Languages and Tools:**  
 
