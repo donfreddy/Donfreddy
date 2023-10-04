@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm [Don Freddy!](), a passionate web and mobile developer. 🚀 I'm from Cameroon.
+Hi, I'm [Don Freddy!](https://donfreddy.com/about), a passionate web and mobile developer. 🚀 I'm from Cameroon.
 
 **Talking about Personal Stuffs:**
 
