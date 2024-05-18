@@ -13,7 +13,7 @@ Hi, I'm [Don Freddy!](https://donfreddy.com/about), a passionate web and mobile 
 
 **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,js,postman,githubactions,androidstudio,kotlin,nuxtjs,tailwind,nestjs,postgres,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,firebase,gcp,githubactions,java,kotlin,spring,nuxtjs,tailwind,nodejs,nestjs,postgres,dart,flutter)](https://skillicons.dev)
 
 
 <!--
