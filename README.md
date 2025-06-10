@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm [Don Freddy!](https://freddy-hub-v2.vercel.app), a passionate web and mobile developer. 🚀 I'm from Cameroon.
+Hi, I'm [Don Freddy!](https://donfreddy.vercel.app), a passionate web and mobile developer. 🚀 I'm from Cameroon.
 
 **Talking about Personal Stuffs:**
 
