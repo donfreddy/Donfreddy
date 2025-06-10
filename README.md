@@ -1,20 +1,33 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
 
-Hi, I'm [Don Freddy!](https://donfreddy.vercel.app), a passionate web and mobile developer. 🚀 I'm from Cameroon.
+Bonjour, je suis [Don Freddy !](https://donfreddy.vercel.app), développeur Full Stack. 🚀 Je viens du Cameroun.
 
-**Talking about Personal Stuffs:**
+**Quelques infos personnelles :**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Vuejs; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Donfreddy](https://twitter.com/dfreddydev);
-
-**Languages and Tools:**  
-
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,gcp,githubactions,java,kotlin,spring,nuxtjs,tailwind,nodejs,nestjs,postgres,dart,flutter)](https://skillicons.dev)
-
+- 👨🏽‍💻 Je travaille actuellement sur un projet passionnant 😉 ;  
+- 🌱 J’apprends en ce moment Vue.js ;  
+- 💬 N’hésitez pas à me poser des questions, je serai ravi d’aider ;  
+- 📫 Me contacter :
+  - **<freddytamwo@gmail.com>**
+  - **[in/donfreddy](https://www.linkedin.com/in/donfreddy/)**
+  - **[x/@donfreddy](https://x.com/don_freddy_)**
+  - **[portfolio](https://donfreddy.vercel.app)**
+ 
+<br />
+ 
+**Compétences Techniques**
+ 
+| **Catégorie**           | **Technos essentielles**                                                                                           |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Langages**            | [![Langages](https://skillicons.dev/icons?i=ts,js,dart,kotlin,java)](https://skillicons.dev)                       |
+| **Frontend**            | [![Frontend](https://skillicons.dev/icons?i=html,css,vue,nuxtjs,tailwind)](https://skillicons.dev)                  |
+| **Backend**             | [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,graphql)](https://skillicons.dev)                   |
+| **Mobile**              | [![Mobile](https://skillicons.dev/icons?i=androidstudio,flutter)](https://skillicons.dev)                           |
+| **Bases de données**    | [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)                        |
+| **DevOps & Cloud**      | [![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,githubactions,terraform,vercel)](https://skillicons.dev) |
+| **Outils de dev**       | [![Outils](https://skillicons.dev/icons?i=git,postman,pnpm,yarn,figma,vscode,idea,webstorm)](https://skillicons.dev) |
 
 <!--
 **Donfreddy/Donfreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
