@@ -1,33 +1,45 @@
-### Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-<br />
+Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full Stack Developer** 🚀  
+Based in **Cameroon 🇨🇲**.
 
-Bonjour, je suis [Don Freddy !](https://donfreddy.vercel.app), développeur Full Stack. 🚀 Je viens du Cameroun.
+#### 👨🏽‍💻 About me
+- 🔭 Currently working on exciting web and mobile projects  
+- 🌱 Learning and improving my skills in **Vue.js**  
+- 💬 Feel free to ask me anything — happy to help  
+- ⚡ Curious, self-taught, and always eager to learn new technologies
 
-**Quelques infos personnelles :**
+#### 📫 Get in touch
+- 📧 **Email** : freddytamwo@gmail.com  
+- 💼 **LinkedIn** : [linkedin.com/in/donfreddy](https://www.linkedin.com/in/donfreddy/)  
+- 🐦 **X (Twitter)** : [@don_freddy_](https://x.com/don_freddy_)  
+- 🌐 **Portfolio** : [donfreddy.vercel.app](https://donfreddy.vercel.app)
 
-- 👨🏽‍💻 Je travaille actuellement sur un projet passionnant 😉 ;  
-- 🌱 J’apprends en ce moment Vue.js ;  
-- 💬 N’hésitez pas à me poser des questions, je serai ravi d’aider ;  
-- 📫 Me contacter :
-  - **<freddytamwo@gmail.com>**
-  - **[in/donfreddy](https://www.linkedin.com/in/donfreddy/)**
-  - **[x/@donfreddy](https://x.com/don_freddy_)**
-  - **[portfolio](https://donfreddy.vercel.app)**
- 
-<br />
- 
-**Compétences Techniques**
- 
-| **Catégorie**           | **Technos essentielles**                                                                                           |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Langages**            | [![Langages](https://skillicons.dev/icons?i=ts,js,dart,kotlin,java)](https://skillicons.dev)                       |
-| **Frontend**            | [![Frontend](https://skillicons.dev/icons?i=html,css,vue,nuxtjs,tailwind)](https://skillicons.dev)                  |
-| **Backend**             | [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,graphql)](https://skillicons.dev)                   |
-| **Mobile**              | [![Mobile](https://skillicons.dev/icons?i=androidstudio,flutter)](https://skillicons.dev)                           |
-| **Bases de données**    | [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)                        |
+ <!--
+### 🛠 Technical Skills
+
+| **Category**            | **Core Technologies**                                                                                             |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Languages**           | [![Languages](https://skillicons.dev/icons?i=ts,js,dart,kotlin,java)](https://skillicons.dev)                      |
+| **Frontend**            | [![Frontend](https://skillicons.dev/icons?i=html,css,vue,nuxtjs,tailwind)](https://skillicons.dev)                |
+| **Backend**             | [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,spring,graphql)](https://skillicons.dev)                 |
+| **Mobile**              | [![Mobile](https://skillicons.dev/icons?i=androidstudio,flutter)](https://skillicons.dev)                         |
+| **Databases**           | [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)              |
 | **DevOps & Cloud**      | [![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,githubactions,terraform,vercel)](https://skillicons.dev) |
-| **Outils de dev**       | [![Outils](https://skillicons.dev/icons?i=git,postman,pnpm,yarn,figma,vscode,idea,webstorm)](https://skillicons.dev) |
+| **Developer Tools**     | [![Tools](https://skillicons.dev/icons?i=git,postman,pnpm,yarn,figma,vscode,idea,webstorm)](https://skillicons.dev) |
+
+> Always building, always learning, and always shipping 🚀
+-->
+
+### 🎯 Current Focus
+
+- 🧠 Designing and building **scalable SaaS architectures**
+- 🚀 Developing **backend services with NestJS** (APIs, microservices, queues, payments)
+- 🌐 Building modern **web apps with Nuxt.js** (SSR, SEO, performance)
+- 📱 Creating cross-platform **mobile apps with Flutter**
+- ⚙️ Improving **DevOps workflows** (Docker, CI/CD, cloud deployments)
+- 🔒 Focusing on **clean code, security, and performance**
+
 
 <!--
 **Donfreddy/Donfreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
