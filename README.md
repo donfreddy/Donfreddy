@@ -1,13 +1,12 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full Stack Developer** 🚀  
-Based in **Cameroon 🇨🇲**.
+Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full Stack Developer** 🚀
 
 #### 👨🏽‍💻 About me
-- 🔭 Currently working on exciting web and mobile projects  
-- 🌱 Learning and improving my skills in **Vue.js**  
-- 💬 Feel free to ask me anything — happy to help  
-- ⚡ Curious, self-taught, and always eager to learn new technologies
+- 🔭 Building **Famsub** (subscription sharing platform) and **Authyra** (NextAuth.js for Flutter)  
+- 🌱 Exploring and improving skills in **Flutter, Nuxt.js, NestJS, and SaaS architecture**  
+- 💬 Happy to share knowledge, answer questions, and collaborate on open-source projects  
+- ⚡ Passionate about **clean code, security, performance, and scalable systems**
 
 #### 📫 Get in touch
 - 📧 **Email** : freddytamwo@gmail.com  
@@ -35,11 +34,11 @@ Based in **Cameroon 🇨🇲**.
 
 - 🧠 Designing and building **scalable SaaS architectures**
 - 🚀 Developing **backend services with NestJS** (APIs, microservices, queues, payments)
-- 🌐 Building modern **web apps with Nuxt.js** (SSR, SEO, performance)
-- 📱 Creating cross-platform **mobile apps with Flutter**
-- ⚙️ Improving **DevOps workflows** (Docker, CI/CD, cloud deployments)
-- 🔒 Focusing on **clean code, security, and performance**
-
+- 🌐 Creating modern **web apps with Nuxt.js** (SSR, SEO, performance)
+- 📱 Building cross-platform **mobile apps with Flutter**
+- ⚙️ Optimizing **DevOps workflows** (Docker, CI/CD, cloud deployments)
+- 🔒 Prioritizing **clean code, security, and performance**
+- 🌟 Building **OSS projects** like Authyra (NextAuth.js for Flutter)
 
 <!--
 **Donfreddy/Donfreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
