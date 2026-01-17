@@ -28,7 +28,6 @@ Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full
 | **Developer Tools**     | [![Tools](https://skillicons.dev/icons?i=git,postman,pnpm,yarn,figma,vscode,idea,webstorm)](https://skillicons.dev) |
 
 > Always building, always learning, and always shipping 🚀
--->
 
 ### 🎯 Current Focus
 
@@ -40,7 +39,6 @@ Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full
 - 🔒 Prioritizing **clean code, security, and performance**
 - 🌟 Building **OSS projects** like Authyra (NextAuth.js for Flutter)
 
-<!--
 **Donfreddy/Donfreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
