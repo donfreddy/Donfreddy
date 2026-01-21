@@ -3,7 +3,7 @@
 Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full Stack Developer** 🚀
 
 #### 👨🏽‍💻 About me
-- 🔭 Building **Famsub** (subscription sharing platform) and **Authyra** (NextAuth.js for Flutter)  
+- 🔭 Building **Famsub** (subscription sharing platform) and [**Authyra**](https://github.com/meragix)  
 - 🌱 Exploring and improving skills in **Flutter, Nuxt.js, NestJS, and SaaS architecture**  
 - 💬 Happy to share knowledge, answer questions, and collaborate on open-source projects  
 - ⚡ Passionate about **clean code, security, performance, and scalable systems**
