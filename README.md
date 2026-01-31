@@ -3,7 +3,7 @@
 Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full Stack Developer** 🚀
 
 #### 👨🏽‍💻 About me
-- 🔭 Building **Famsub** (subscription sharing platform) and [**Authyra**](https://github.com/meragix)  
+- 🔭 Building **Famsub** (subscription sharing platform) and [**Meragix**](https://github.com/meragix)  
 - 🌱 Exploring and improving skills in **Flutter, Nuxt.js, NestJS, and SaaS architecture**  
 - 💬 Happy to share knowledge, answer questions, and collaborate on open-source projects  
 - ⚡ Passionate about **clean code, security, performance, and scalable systems**
@@ -11,8 +11,8 @@ Hello, I’m **[Don Freddy](https://donfreddy.vercel.app)**, a passionate **Full
 #### 📫 Get in touch
 - 📧 **Email** : freddytamwo@gmail.com  
 - 💼 **LinkedIn** : [linkedin.com/in/donfreddy](https://www.linkedin.com/in/donfreddy/)  
-- 🐦 **X (Twitter)** : [@don_freddy_](https://x.com/don_freddy_)  
-- 🌐 **Portfolio** : [donfreddy.vercel.app](https://donfreddy.vercel.app)
+- 🐦 **X (Twitter)** : [@thedonfreddy](https://x.com/thedonfreddy)  
+- 🌐 **Portfolio** : [donfreddy](https://donfreddy.vercel.app)
 
  <!--
 ### 🛠 Technical Skills
